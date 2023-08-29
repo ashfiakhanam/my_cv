@@ -6,9 +6,11 @@
 
 *"There is great skill in knowing how to conceal one's skill."*
 
+---
 ## Career Objective
 To use my energetic and lively personality and attitude in teaching to help the students increase their performance by fostering their creativity and ability to think at a higher level.
 
+---
 ## Education
 - **BSc in Computer Science & Engineering**  
 BRAC University, Dhaka, Bangladesh  
@@ -25,6 +27,7 @@ Tejgoan Govt. Girls' High School, Dhaka, Bangladesh
 *January 2002 - May 2015*  
 GPA: 5.00/5.00  
 
+---
 ## Work Experience
 - **Student Tutor**
 *Dept. of Computer Science and Engineering, BRAC University, Dhaka, Bangladesh*  
@@ -69,10 +72,7 @@ GPA: 5.00/5.00
 • Prepared the lesson plan for students and practical classes.
 • Prepared questions, invigilated exams, graded scripts and assignments.
 
-
-
-
-
+---
 ## Honors, Awards & Certifications
 - **Merit Scholarship Based on BracU Academic Results**  
 *From January 2021 to December 2022*
@@ -80,6 +80,7 @@ Got 100% Merit scholarship based on academic results in 4 semesters; Got 50% Mer
 - **Champion in College Carrom Competition**
 - **Runner-up in College Chess Competition**
 
+---
 ## Skills & Interests
 - Programming Languages: Python, Java
 - Web Development: HTML, CSS, PHP, MySQL
@@ -88,15 +89,18 @@ Got 100% Merit scholarship based on academic results in 4 semesters; Got 50% Mer
 - Soft Skills: Communicative, Leadership, Collaborative, Proactive, Punctual,  Pressure Handling, Multi-tasking.
 - Interests: Web Development, UI-UX design, Image Processing
 
+---
 ## Research Work & Publications
-### Paper I
+##### Paper I
 Automated Image Caption Generator in Bangla Using Multimodal Learning
 
+---
 ## Projects
 - Computer Graphics Algorithms: Python-based project (CSE423: Computer Graphics 2021)
 - ECommerce Website Using HTML, CSS, JS, SQL with Django Backend. (CSE470: Software Engineering 2022)
 - ELearning Website Using HTML, CSS, JS, PHP, SQL with Laravel Backend (CSE 471: System analysis and design)
 
+---
 ## Language Proficiency
 - **English**
   - Fluent in speaking and listening
@@ -104,6 +108,7 @@ Automated Image Caption Generator in Bangla Using Multimodal Learning
 - **Bengali**
   - Native language
 
+---
 ## Extra-Curricular Activities
 - Runner-up in Lalon Sangeet in Ochin Pakhi Sangeet Academy
 - Runner-up in Nazrul, Rabindra & Lalon Sangeet in College Singing competition
@@ -120,6 +125,7 @@ Automated Image Caption Generator in Bangla Using Multimodal Learning
 - **BRAC University Adventure Club - BUAC**
     Assistant Secretary (Performer)
 
+---
 ## References
 1. Md. Ashraful Alam, PhD  
    Assistant Professor  
