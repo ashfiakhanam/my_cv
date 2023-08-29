@@ -10,17 +10,17 @@
 To use my energetic and lively personality and attitude in teaching to help the students increase their performance by fostering their creativity and ability to think at a higher level.
 
 ## Education
-**BSc in Computer Science & Engineering**  
+- **BSc in Computer Science & Engineering**  
 BRAC University, Dhaka, Bangladesh  
 *May 2018 - May 2023*  
 CGPA: 3.88/4.00  
 
-**Higher Secondary School Certificate**  
+- **Higher Secondary School Certificate**  
 Dhaka City College, Dhaka, Bangladesh  
 *August 2015 - August 2017*  
 GPA: 5.00/5.00  
 
-**Secondary School Certificate**  
+- **Secondary School Certificate**  
 Tejgoan Govt. Girls' High School, Dhaka, Bangladesh  
 *January 2002 - May 2015*  
 GPA: 5.00/5.00  
