@@ -1,5 +1,6 @@
 # Ashfia Khanam
 
+![Profile Photo](https://github.com/ashfiakhanam/my_cv/blob/main/Photo.jpg?raw=true)
 **Address:** 97, Tejkunipara, Tejgoan, Dhaka-1215  
 **Mobile:** (+880) 1591175019  
 **Email:** ashfiajoty54@gmail.com  
