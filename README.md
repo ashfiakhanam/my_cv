@@ -1,12 +1,12 @@
 # Ashfia Khanam
 
 <div style="display: flex; align-items: center;">
+  <img src="https://github.com/ashfiakhanam/my_cv/blob/main/Photo.jpg?raw=true" alt="ProfilePic" width="100" height="140" style="margin-right: 20px;">
   <div>
     <p><strong>Address:</strong> 97, Tejkunipara, Tejgoan, Dhaka-1215</p>
     <p><strong>Mobile:</strong> (+880) 1591175019</p>
     <p><strong>Email:</strong> ashfiajoty54@gmail.com</p>
   </div>
-  <img src="https://github.com/ashfiakhanam/my_cv/blob/main/Photo.jpg?raw=true" alt="ProfilePic" width="100" height="140" style="margin-left: 20px;">
 </div>
 
 ---
