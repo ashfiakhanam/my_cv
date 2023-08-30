@@ -82,7 +82,7 @@ GPA: 5.00/5.00
 ---
 ## Honors, Awards & Certifications
 - **Merit Scholarship Based on BracU Academic Results**  
-*Got 100% Merit scholarship based on academic results; Got 50% Merit-based scholarship*
+*Got 100% scholarship; Got 50% Merit-based scholarship*
 - **Champion in College Carrom Competition**
 - **Runner-up in College Chess Competition**
 
