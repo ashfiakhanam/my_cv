@@ -1,5 +1,6 @@
 # Ashfia Khanam
 
+<img src="https://raw.githubusercontent.com/your-username/your-repo/master/Photo.jpg" alt="Alt Text" width="200" height="300">
 ![Profile Photo](https://github.com/ashfiakhanam/my_cv/blob/main/Photo.jpg?raw=true)
 **Address:** 97, Tejkunipara, Tejgoan, Dhaka-1215  
 **Mobile:** (+880) 1591175019  
