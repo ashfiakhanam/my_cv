@@ -82,8 +82,7 @@ GPA: 5.00/5.00
 ---
 ## Honors, Awards & Certifications
 - **Merit Scholarship Based on BracU Academic Results**  
-*From January 2021 to December 2022*
-Got 100% Merit scholarship based on academic results in 4 semesters; Got 50% Merit-based scholarship in 5 semesters.
+*Got 100% Merit scholarship based on academic results; Got 50% Merit-based scholarship*
 - **Champion in College Carrom Competition**
 - **Runner-up in College Chess Competition**
 
@@ -116,6 +115,8 @@ Automated Image Caption Generator in Bangla Using Multimodal Learning
   - Excellent in writing
 - **Bengali**
   - Native language
+- **Chinese**
+  - Basic learning
 
 ---
 ## Extra-Curricular Activities
