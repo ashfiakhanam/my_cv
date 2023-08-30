@@ -103,9 +103,11 @@ Automated Image Caption Generator in Bangla Using Multimodal Learning
 
 ---
 ## Projects
-- Computer Graphics Algorithms: Python-based project (CSE423: Computer Graphics 2021)
-- ECommerce Website Using HTML, CSS, JS, SQL with Django Backend. (CSE470: Software Engineering 2022)
-- ELearning Website Using HTML, CSS, JS, PHP, SQL with Laravel Backend (CSE 471: System analysis and design)
+- Computer Graphics Algorithms: a Python-based project (CSE423: Computer Graphics 2021)
+- Anti Theft Alarm and Notification System: an Arduino Project (CSE360: Computer Interfacing) 
+- ECommerce Website: Using HTML, CSS, JS, SQL with Django Backend project. (CSE470: Software Engineering 2022)
+- ELearning Website: Using HTML, CSS, JS, PHP, SQL with Laravel Backend project (CSE471: System analysis and design 2022)
+- BRACU Network: Using efficient Routing, Simulation, Packet Tracer project (CSE421: Computer Networks 2023)
 
 ---
 ## Language Proficiency
