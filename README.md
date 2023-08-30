@@ -4,11 +4,9 @@
 **Mobile:** (+880) 1591175019  
 **Email:** ashfiajoty54@gmail.com  
 
-*"There is great skill in knowing how to conceal one's skill."*
-
 ---
 ## Career Objective
-To use my energetic and lively personality and attitude in teaching to help the students increase their performance by fostering their creativity and ability to think at a higher level.
+To employ my dynamic persona in teaching, fostering heightened creativity and advanced thinking for improved student performance. As a reliable candidate, I prioritize effective responsibility management with a positive mindset. Eager to support our goals, I willingly assume extra duties. My strong programming skills and enthusiasm for learning drive me to contribute to various tasks. 
 
 ---
 ## Education
@@ -126,17 +124,36 @@ Automated Image Caption Generator in Bangla Using Multimodal Learning
     Assistant Secretary (Performer)
 
 ---
-## References
-1. Md. Ashraful Alam, PhD  
-   Assistant Professor  
-   Department of Computer Science & Engineering  
-   Brac University, Dhaka, Bangladesh  
-   Email: ashraful.alam@bracu.ac.bd  
-   Phone: +8801984714672  
+## Volunteering
 
-2. Salman Sayeed Khan  
-   Lecturer  
+**Campus Ambassador**  
+WFH Foundation  
+*Aug 2021 - Oct 2022*   
+Human Rights  
+
+**Campus Ambassador**  
+British Educare  
+*Aug 2021 - Nov 2022*  
+Education  
+
+**General Member**  
+International Model United Nations Association (IMUNA)  
+*Aug 2021 - Nov 2022*  
+Education  
+
+**Volunteer**  
+Fresh Tissues  
+*Jun 2021 - Aug 2021*  
+Health
+
+---
+## References
+1. Md Khalilur Rhaman, PhD  
+   Professor  
    Department of Computer Science & Engineering  
    Brac University, Dhaka, Bangladesh  
-   Email: salman.sayeed@bracu.ac.bd  
-   Phone: +8801622913603  
+   Email: khalilur@bracu.ac.bd  
+   Phone: +880-17-5204-2223  
+   Web: www.bracu.ac.bd/about/people/md-khalilur-rhaman-phd
+
+2.  
