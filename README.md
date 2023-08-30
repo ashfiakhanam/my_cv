@@ -9,7 +9,7 @@
       <p><strong>Address:</strong> 97, Tejkunipara, Tejgoan, Dhaka-1215</p>
       <p><strong>Mobile:</strong> (+880) 1591175019</p>
       <p><strong>Email:</strong> ashfiajoty54@gmail.com</p>
-      <p><strong>Github:</strong>strong> www.github.com/ashfiakhanam</p>
+      <p><strong>Github:</strong> www.github.com/ashfiakhanam</p>
     </td>
   </tr>
 </table>
