@@ -32,7 +32,7 @@ GPA: 5.00/5.00
 
 - **Secondary School Certificate**  
 Tejgoan Govt. Girls' High School, Dhaka, Bangladesh  
-*January 2002 - May 2015*  
+  *2015*  
 GPA: 5.00/5.00  
 
 ---
