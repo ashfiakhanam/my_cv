@@ -5,8 +5,7 @@
     <td>
       <img src="https://github.com/ashfiakhanam/my_cv/blob/main/Photo.jpg?raw=true" alt="ProfilePic" width="100" height="140">
     </td>
-    <td>
-      
+    <td>      
       <p><strong>Email:</strong> ashfiajoty54@gmail.com</p>
       <p><strong>Github:</strong> www.github.com/ashfiakhanam</p>
     </td>
