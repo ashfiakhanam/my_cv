@@ -32,7 +32,7 @@ GPA: 5.00/5.00
 
 - **Secondary School Certificate**  
 Tejgoan Govt. Girls' High School, Dhaka, Bangladesh  
-  *2015*  
+  *January 2005 - May 2015*  
 GPA: 5.00/5.00  
 
 ---
@@ -160,12 +160,17 @@ Health
 
 ---
 ## References
-1. Md Khalilur Rhaman, PhD  
+1. **Md Khalilur Rhaman, PhD**  
    Professor  
    Department of Computer Science & Engineering  
    Brac University, Dhaka, Bangladesh  
    Email: khalilur@bracu.ac.bd  
    Phone: +880-17-5204-2223  
-   Web: www.bracu.ac.bd/about/people/md-khalilur-rhaman-phd
+   Web: www.bracu.ac.bd/about/people/md-khalilur-rhaman-phd  
 
-2.  
+2. **Dr. Farig Yousuf Sadeque**  
+   Assistant Professor  
+   Department of Computer Science and Engineering  
+   Brac University, Dhaka, Bangladesh  
+   Email: farig.sadeque@bracu.ac.bd  
+   Phone: +8809617445155
